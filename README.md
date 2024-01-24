@@ -1,8 +1,13 @@
-# React + Vite
+# React Counter App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Counter app using ReactJS
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Increase count value
+- Decrease count value
+- Reset count value
+
+
+![counter-app](https://github.com/rishurishabh/react_counter/assets/33497918/4e7c83d9-127b-4894-85e3-e09a438f8d0c)
